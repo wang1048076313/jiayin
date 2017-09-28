@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <style>
+        li{list-style: none;width: 120px;display: inline-block;margin-right: 100px;text-align: center;vertical-align: top;margin-bottom: 40px}
+        img{width: 100px;margin-bottom: 20px}
+        span{display: block;text-align: center}
+        input{margin-bottom: 20px;background: none;border:1px solid;border-radius: 5px}
+        #pic{opacity: .5;border: none;}
+        #addform{display: none}
+        iframe{width: 0;height: 0;opacity: 0}
+        #del{display: none}
+    </style>
+    <script src="https://cdn.bootcss.com/jquery/3.1.1/jquery.min.js"></script>
+</head>
+<body>
+<iframe src="" name="aaa"></iframe>
+    <ul>
+        <%for(var i=0;i<data.length;i++){%>
+            <li>
+
+                <a href="./<%= data[i]%>"><img src="./img/timg.jpg" /></a></br>
+                <span><%= data[i]%></span> </br>
+                <form action="./<%= data[i]%>/post" method="post" enctype="multipart/form-data" target="aaa">
+                    <input type="file" name="pic" id="pic"/>
+                    <input type="submit" value="提交"/>
+                </form>
+
+            </li>
+
+        <%}%>
+        <li style="margin-left: 100px;opacity: 0.5">
+            <img src="./img/more.png" id="add" style="width: 80px"/>
+
+            <form action="./add" method="get" id="addform" target="aaa">
+                <input type="text" name="name" style="width: 100px;height: 30px" />
+                <input type="submit" value="添加"/>
+            </form>
+        </li>
+        <li style="opacity: 0.5">
+            <img src="./img/less.png" id="dis" style="width: 80px"/>
+
+            <form action="./delete" id="del" target="_blank">
+                <select name="del" >
+                    <% for(var j=0;j<data.length;j++){%>
+                    <option value="<%= data[j]%>"><%= data[j]%></option>
+                    <%}%>
+                </select></br>
+                <input type="submit" value="确认删除" style="margin-top: 20px"/>
+            </form>
+        </li>
+    </ul>
+
+</body>
+</html>
+<script type="text/javascript">
+   $("#add").click(function () {
+        $("#addform").toggle();
+   })
+    $("input[type='submit']").click(function () {
+        setTimeout(function () {
+            location.reload()
+        },1000)
+    })
+    $("#dis").click(function () {
+            $("#del").toggle();
+    })
+</script>
