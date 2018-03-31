@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_ctl00_Head1">
+    <meta charset="UTF-8"/>
+    <meta name="keywords" content="武汉朗数科技有限公司,智慧园区,园区信息化,互联网,软件开发"/>
+    <meta name="description" content="武汉朗数科技有限公司公司"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+
+    <link rel="bookmark" type="image/x-icon" href="favicon.ico"/>
+    <link rel="icon" href="favicon.ico">
+    <link rel="shortcut icon" href="favicon.ico">
+
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <!--<link rel="stylesheet" type="text/css" href="css/idangerous.swiper.css">-->
+    <!--<link rel="stylesheet" type="text/css" href="css/iconfont.css">-->
+
+
+
+    <script type="text/javascript" src="js/jquery-1.11.3.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <!--<script type="text/javascript" src="js/iconfont.js"></script>-->
+
+    <!--<script type="text/javascript" src="js/idangerous.swiper.js"></script>-->
+    <!--<link rel="stylesheet" type="text/css" href="css/idangerous.swiper.scrollbar.css">-->
+    <!--<link rel="stylesheet" type="text/css" href="css/animate.min.css">-->
+    <script>
+        var SiteUrl = "http://www.launchso.com/";
+    </script>
+
+    <script src="js/public.js"></script>
+    <title>
+        产品与解决方案
+    </title></head>
+<body>
+<form name="aspnetForm" method="post" action="" id="aspnetForm">
+
+    <!-- 头部导航 -->
+    <Div class="" data-cmsareaid="65">
+        <link rel="stylesheet" href="http://at.alicdn.com/t/font_av3luykaoto3whfr.css">
+    </Div>
+
+
+    <div class="header">
+        <div class="container">
+            <a class="logo" href="index.html">
+                <img width="140" src="images/logo.png"/></a>
+
+            <ul class="mainav">
+
+                <li>
+                    <a href="index.html">首页</a></li>
+
+                <li>
+                    <a href="javascript:;" val="227" class="active">
+                        <font onclick="location.href='ERP.html'">
+                            产品
+                        </font>
+
+                    </a>
+                </li>
+                <li>
+                    <a href="javascript:;" val="227" class="">
+                        <font onclick="location.href='server.html'">
+                            服务
+                        </font>
+
+                    </a>
+                </li>
+                <li>
+                    <a href="javascript:;" val="228" class="">
+                        <font onclick="location.href='typicalCases.html'">
+                            典型案例
+
+                        </font>
+
+                    </a>
+
+
+                </li>
+
+                <li>
+                    <a href="javascript:;" val="229" class="">
+                        <font onclick="location.href='partner.html'">
+                            合作伙伴
+
+                        </font>
+
+                    </a>
+
+
+                </li>
+
+                <li>
+                    <a href="javascript:;" val="230" >
+                        <font onclick="location.href='aboutUs.html'">
+                            关于我们
+
+                        </font>
+
+                    </a>
+
+
+                </li>
+
+            </ul>
+        </div>
+    </div>
+
+    <!-- 头部导航 -->
+
+    <!-- 引导页 -->
+
+
+    <!-- 引导页 -->
+
+
+    <!-- banner -->
+    <div style="background-image: url(images/top/solutions_bg.jpg);"
+         class="titimg">
+        <div class="titimg-word">
+            <span>产品与解决方案</span>
+            <em>Products and Solutions</em>
+        </div>
+    </div>
+    <!-- banner -->
+
+    <div class="tab_bar_top">
+        <div class="tab_bar_item">
+        <a href="ERP.html#1100">
+            产品介绍
+        </a>
+        </div>
+        <div class="tab_bar_item">
+        <a href="ERP.html#1101">
+            产品特点
+        </a>
+        </div>
+        <div class="tab_bar_item">
+        <a href="ERP.html#1102">
+            功能清单
+        </a>
+        </div>
+    </div>
+
+    <!-- 产品解决方案 -->
+    <div class="maincont type2 articlehtml_item">
+        <div>
+            <div class="container">
+                <div class="row">
+                    <div class="maincont-tit" id="tit_1100">
+                        <a href="#1100" id="1100"></a>
+                        产品介绍
+                    </div>
+                    <p>协同办公平台是面向中小型企业的OA综合办公管理平台。全面实现协同工作、公文管理、表单管理、文档管理、绩效管理、目标管理、会议管理、财务报销、采购管理等，并能够与其他异构系统整合，打破信息孤岛，高绩效组织的统一工作平台。</p>
+
+                    <p><img src="images/top/solution_bg6.png" /></p>
+                </div>
+            </div>
+        </div><div>
+        <div class="container">
+            <div class="row">
+                <div class="maincont-tit" id="tit_1101">
+                    <a href="#1101" id="1101"></a>
+                    产品特点
+                </div>
+                <ul>
+                    <li>
+                        <p><span style="font-family:宋体">组织权限：</span></p>
+                    </li>
+                </ul>
+                <p style="margin-left:30px;">多种维度的组织结构，支持多种类型的组织机构设置，内部组织、外部组织 、虚拟组织。 提供用户的属性自定义，允许对用户进行多种属性的扩展 与SAP完全双向同步，可替代SAP HR部分功能。</p>
+                <ul>
+                    <li>
+                        <p><span style="font-family:宋体">流程可视化设计：</span></p>
+                    </li>
+                </ul>
+                <ul class="about_list" style="padding:0;">
+                    <li class="about_item">1.流程设计器：在线的可视化流程设计</li>
+                    <li class="about_item">2.用户功能：保存草稿、单一签核、会签（顺签/并签/投票）、驳回（任意驳回/指定驳回）、加签、转办、授权委办、自由跳转、中止、重启启动、在线沟通、催办、通知。满足国内外用户各种流程需求</li>
+                    <li class="about_item">3.流程线:实现一个表单多条流程，按条件选择执行</li>
+                    <li class="about_item">4.流程分支:条件分支设置</li>
+                    <li class="about_item">5.任务池:任务共享，抢单、指派、退回、调度、监控</li>
+                    <li class="about_item">6.流程监控:任务状态监控、流程状态监控</li>
+                </ul>
+                <ul>
+                    <li>
+                        <p><span style="font-family:宋体">跨业务板块流程集合：</span></p>
+                    </li>
+                </ul>
+                <p style="margin-left:30px;">整合周边系统流程，进行业务再造，满足企业流程个性化需求。通过工作流引擎和组织结构库，将原有的SAP审批流外迁，并整合其他系统的服务，最终形成统一服务，供用户使用。</p>
+            </div>
+        </div>
+    </div>
+        <div>
+        <div class="container">
+            <div class="row">
+                <div class="maincont-tit" id="tit_1102">
+                    <a href="#1102" id="1102"></a>
+                    功能清单
+                </div>
+                <p>
+                    <img style="width: 80%;margin: auto" src="images/top/functionlist.png" />
+                </p>
+
+            </div>
+        </div>
+    </div>
+    </div>
+    <!-- 产品解决方案 end -->
+
+    <!-- 底部 -->
+
+
+
+    <div class="footer pcshow">
+        <div class="bd">
+            <div class="container">
+                <div class="footer_logo">LAUNCH</div>
+                <div class="word">
+                    <p>
+                        &nbsp<img src="images/top/tel.png"> ：027-50669194
+                    </p>
+                    <p>
+                        &nbsp<img src="images/top/email.png"> ：contact@launchso.com
+                    </p>
+                    <p>
+                        <img src="images/top/address.png">：武汉市东湖新技术开发区光谷大道金融港博彦科技A9栋405
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- 侧边栏 -->
+
+
+    <script>
+        function toTop() {
+            var speed = 500;//滑动的速度
+            $('body,html').animate({scrollTop: 0}, speed);
+            return false;
+        }
+        $(function () {
+            $(window).on('scroll',function () {
+                if($(window).scrollTop()<$(window).height()){
+                    $('.topball').hide()
+                }else{
+                    $('.topball').show()
+                }
+            });
+
+            if ($(window).width() > 1100) {
+                $(".sidebar").show();
+            } else {
+                $(".sidebar").hide();
+            }
+
+        })
+
+    </script>
+
+
+    <!-- 侧边栏 -->
+    <div class="sidebar pcshow">
+        <ul>
+            <li class="type1 topball"  style="display: none"  onclick="toTop()" title="回到顶部"><i
+                    class="iconfont icon-huidaodingbu1"></i></li>
+
+        </ul>
+    </div>
+    <!-- 侧边栏 -->
+
+    <script>
+        $(".sidebar li").eq(1).hover(function () {
+            $(this).children("div").show().stop().animate({
+                "left": -205
+            }, 100);
+        }, function () {
+            $(this).children("div").stop().animate({
+                "left": -215
+            }, 100).fadeOut(100);
+        })
+    </script>
+
+
+
+
+
+
+</form>
+</body>
+</html>

@@ -1,0 +1,615 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_ctl00_Head1">
+    <meta charset="UTF-8"/>
+    <meta name="keywords" content="武汉朗数科技有限公司,智慧园区,园区信息化,互联网,软件开发"/>
+    <meta name="description" content="武汉朗数科技有限公司公司首页"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    <!--360兼容-->
+    <meta name="renderer" content="webkit|ie-comp|ie-stand">
+    <meta name="renderer" content="webkit">
+    <link rel="bookmark" type="image/x-icon" href="favicon.ico"/>
+    <link rel="icon" href="favicon.ico">
+    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/iconfont.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/animate.min.css">
+    <link rel="stylesheet" href="http://at.alicdn.com/t/font_av3luykaoto3whfr.css">
+    <link rel="stylesheet" type="text/css" href="css/swiper.min.css">
+    <link rel="stylesheet" type="text/css" href="css/css_TB8O3tuiLB3adw0cb1io_ZCHDIodSQkW3VgFe2Lz7OI.css">
+    <title>
+        武汉朗数科技有限公司
+    </title>
+</head>
+
+<body>
+<form name="aspnetForm" method="post" action="" id="aspnetForm">
+
+    <div class="top">
+        <div class="top_in"><a class="top_l" href="index.html"></a>
+            <div class="nav">
+                <ul>
+                    <li><a class="nav_main hover_bottom" href="ERP.html">产品</a>
+                        <div class="nav_list"><a href="ERP.html">EBP</a> <a
+                                href="IXS.html">IXS</a> <a href="SHOP.html">电商平台</a></div>
+                    </li>
+                    <li><a class="nav_main hover_bottom" href="server.html">服务</a>
+                        <div class="nav_list" style="width: 140px"><a href="server.html#ctl00_ctl00_main_main_title">软件咨询服务</a> <a
+                                href="server.html#ctl00_ctl00_main_main_xm">应用系统项目实施</a> <a href="server.html#ctl01_ctl00_main_main_abouttitle">软件产品定制开发</a></div>
+                    </li>
+                    <li><a class="nav_main hover_bottom" href="typicalCases.html">典型案例</a>
+                        <div class="nav_list" style="width: 140px">
+                            <a href="typicalCases.html#1001">电商解决方案</a>
+                            <a href="typicalCases.html#1002">P2P解决方案</a>
+                            <a href="typicalCases.html#1003">智慧社区方案</a>
+                            <a href="typicalCases.html#1004">报表解决方案</a>
+                            <a href="typicalCases.html#1005">供应商采购方案</a>
+                        </div>
+                    </li>
+                    <li><a class="hover_bottom" href="partner.html">合作伙伴</a></li>
+                    <li><a class="nav_main hover_bottom" href="aboutUs.html">关于我们</a>
+                        <div class="nav_list"><a href="aboutUs.html#5178">公司介绍</a> <a href="aboutUs.html#5176">技术体系</a> <a
+                                href="aboutUs.html#5180">公司证书</a></div>
+                    </li>
+                    <li class="phone01" style="width: auto">027-50669194</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!--banner begin-->
+    <div class="toptit" style="z-index: 5">
+        <h1>朗数科技</h1>
+        <h2>互联网运营与管控一体化</h2>
+        <h3>解决方案提供商</h3>
+        <a class="tryout" href="http://q.launchso.com/ebp/u/a/trial/login.do">免费体验</a>
+    </div>
+    <div class="swiper-container">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide"><img style="width: 100%;height: 615px;" src="images/top/aboutUs_bg.jpg"
+                                           onerror="no_pic(this)"/></div>
+            <div class="swiper-slide"><img style="width: 100%;height: 615px;" src="images/banner02.jpg"
+                                           onerror="no_pic(this)"/></div>
+            <div class="swiper-slide"><img style="width: 100%;height: 615px;" src="images/banner03.jpg"
+                                           onerror="no_pic(this)"/></div>
+        </div>
+        <!-- 如果需要分页器 -->
+        <div class="swiper-pagination"></div>
+
+        <!-- 如果需要导航按钮 -->
+        <!--<div class="swiper-button-prev"></div>-->
+        <!--<div class="swiper-button-next"></div>-->
+
+        <!-- 如果需要滚动条 -->
+        <!--<div class="swiper-scrollbar"></div>-->
+    </div>
+    <!--banner end-->
+    <div class="float_btm">
+        <div class="float_btm_bg"></div>
+        <div class="float_btm_con">
+            <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=3457637565&site=qq&menu=yes"><span
+                    class="float_btm_icon01" id="BizQQWPA">QQ在线</span></a>
+            <a target="_self"
+               onclick="window.open('http://p.qiao.baidu.com/cps/chat?siteId=11239072&userId=24567069','_blank','width=500,height=400,menubar=no,toolbar=no, status=no,scrollbars=no')"><span
+                    class="float_btm_icon02">咨询留言</span></a>
+            <a target="_blank" href="http://q.launchso.com/ebp/u/a/trial/login.do"><span
+                    class="float_btm_icon03">免费体验</span></a>
+        </div>
+    </div>
+
+    <!--产品中心-->
+    <div class="bg_f2">
+        <div class="newtit">
+            <span>产品中心</span>
+            <div class="sub_title_en">Product Center</div>
+        </div>
+        <div class="region region-productcenter">
+            <div class="views-element-container block block-views block-views-blockproduct-block-1"
+                 id="block-views-block-product-block-1">
+
+
+                <div>
+                    <div class="view view-product view-id-product view-display-id-block_1 js-view-dom-id-7e60ee7d4dbd749a356fef31f0a26930ccb09a9e2ee96fb0e95387eb00f1dbe5">
+
+
+                        <div class="view-content">
+                            <div class="views-view-grid horizontal cols-3 clearfix">
+                                <div class="product_box clearfix">
+                                    <div>
+                                        <div><a class="product_cell" href="ERP.html">
+                                            <img  class="product_cell_img" src="images/top/picture0.png" alt=""/>
+                                            <p class="product_tit">ERP</p>
+                                            <p class="product_word">EBP（Enterprise Business Platform
+                                                ）平台，是基于流行的J2EE框架，借助成熟丰富的企业业务理念，打造灵活开放、具有超强扩展性的企业应用开发平台。</p>
+                                        </a></div>
+                                    </div>
+                                    <div>
+                                        <div><a class="product_cell" href="IXS.html">
+                                            <img  class="product_cell_img" src="images/top/picture.png" alt=""/>
+                                            <p class="product_tit">IXS</p>
+                                            <p class="product_word">
+                                                以面向服务架构(SOA)思想，融合阿里巴巴的dubbo开源分布式服务框，从业务需求为出发，最大限度地重用已经存在的软件资产，减少耦合度，进行企业应用集成。</p>
+                                        </a></div>
+                                    </div>
+                                    <div>
+                                        <div><a class="product_cell last" href="SHOP.html">
+                                            <img  class="product_cell_img" src="images/top/picture2.png" alt=""/>
+                                            <p class="product_tit">电商系统</p>
+                                            <p class="product_word">
+                                                融合了阿里巴巴dubbo开源分布式服务框，从业务需求为出发，重用已经存在的软件资产，减少其耦合度，进行企业应用的集成。</p>
+                                        </a></div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <!--产品中心-->
+
+    <!-- 产品与解决方案 -->
+    <div class="product2">
+        <div class="newtit">
+            <span>解决方案</span>
+            <em>秉持“开放、友好、合作、共赢”的原则，整合多方资源，打造智慧园区信息化产业生态链，为园区客户提供全<br>
+                方位、一体化的整合式服务。</em>
+        </div>
+        <div class="hd">
+            <ul>
+                <li data-value="1566" class="on">
+                    <i class="iconfont icon-cp1"></i>
+                    <span>电商系统</span>
+                </li>
+                <li data-value="1567">
+                    <i class="iconfont icon-cp2"></i>
+                    <span>企业开发平台</span>
+                </li>
+                <li data-value="1568">
+                    <i class="iconfont icon-cp3"></i>
+                    <span>中间件平台</span>
+                </li>
+            </ul>
+        </div>
+        <div class="bd">
+            <div >
+                <ul class="articlehtml">
+                    <li>
+                        <a href="solutionsSystem.html#1100" class="prevent animated">
+                            <div style="float: left" class="menu_icon icon1"></div>
+                            <div class="word">
+                                <div class="tit">电商ERP</div>
+                                <p title="打通企业内部ERP与互联网电子商务平台、实现网上采购、网上销售、网上支付的模块整合">
+                                    打通企业内部ERP与互联网电子商务平台、实现网上采购、网上销售...</p>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="solutionsSystem.html#1101" class="prevent animated">
+                            <div style="float: left" class="menu_icon icon2"></div>
+                            <div class="word">
+                                <div class="tit">电商B2C</div>
+                                <p title="突出个性化设计，注重舒适的用户体验，集成主流物流公司接口，面单打印方案">突出个性化设计，注重舒适的用户体验，集成主流物流公司接口...</p>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="solutionsSystem.html#1102" class="prevent animated">
+                            <div style="float: left" class="menu_icon icon3"></div>
+                            <div class="word">
+                                <div class="tit">电商B2B</div>
+                                <p title="企业与分销商、企业与门店之间，企业与供应商等，通过整合资源，快速反应，为客户提供更好的服务，从而促进企业的业务发展">
+                                    企业与分销商、企业与门店之间，企业与供应商等，通过整合资源...</p>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="solutionsSystem.html#1103" class="prevent animated">
+                            <div style="float: left" class="menu_icon icon4"></div>
+                            <div class="word">
+                                <div class="tit">电商O2O</div>
+                                <p title="线下商务的机会与互联网结合在了一起，让互联网成为线下交易的前台，实现线上线下信息的互通和资源的共享与线上与线下的立体互动">
+                                    线下商务的机会与互联网结合在了一起，让互联网成为线下交易...</p>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="solutionsSystem.html" class="prevent animated">
+                            <div style="float: left" class="menu_icon icon5"></div>
+                            <div class="word">
+                                <div class="tit">电商B2B2C</div>
+                                <p title="自营+招商、自营+联营+招商等模式，平台企业通过建立自营线上商城，整合自身多渠道业务，通过会员、商品、订单、财务和仓储等管理系统，对线下线上多渠道业务进行统一管理">
+                                    自营+招商、自营+联营+招商等模式，平台企业通过建立自营线上...</p>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="solutionsSystem.html#1104" class="prevent animated">
+                            <div style="float: left" class="menu_icon icon6"></div>
+                            <div class="word">
+                                <div class="tit">微信商城</div>
+                                <p title="微电商通过社交渠道，以及社会化分销平台帮助企业搭建新一代的微电商销售体系，实现线上线下互通，去中心化流量聚合，客户粉丝沉淀，助力企业快速步入移动电商时代">
+                                    微电商通过社交渠道，以及社会化分销平台帮助企业搭建新一代...</p>
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+                <ul class="articlehtml" style="display:none;">
+                    <li>
+                        <a href="solutionsPlatform.html#1146" class="prevent animated">
+                            <div style="float: left" class="menu_icon icon7"></div>
+                            <div class="word">
+                                <div class="tit">协同办公平台</div>
+                                <p title="改变传统办公模式，实现无纸化办公；快速审批，流程高效，随时掌控任务进度；信息传递、多方协同、知识共享，打通内部信息孤岛。">
+                                    改变传统办公模式，实现无纸化办公；快速审批，流程高效，随时...</p>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="solutionsPlatform.html#1155" class="prevent animated">
+                            <div style="float: left" class="menu_icon2 icon26"></div>
+                            <div class="word">
+                                <div class="tit">档案管理</div>
+                                <p title="实现文档数据的获取、沉淀、共享，建立统一规范的流程管理；完善知识库的积累，提升文档的应用价值；创建多维度的文档标签，分级管控，快速查阅。">
+                                    实现文档数据的获取、沉淀、共享，建立统一规范的流程管理；完善...</p>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="solutionsPlatform.html#1148" class="prevent animated">
+                            <div style="float: left" class="menu_icon2 icon22"></div>
+                            <div class="word">
+                                <div class="tit">合同管理</div>
+                                <p title="实现合同立项到归档的全生命周期管理，建立标准化流程；建立合同预警机制，形成一整套的合同签订管理机制，明确双方权利义务。">
+                                    实现合同立项到归档的全生命周期管理，建立标准化流程；建立合同...</p>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="solutionsPlatform.html#1151" class="prevent animated">
+                            <div style="float: left" class="menu_icon2 icon23"></div>
+                            <div class="word">
+                                <div class="tit">任务督办</div>
+                                <p title="依托协同工作平台，实现领导交办、批件、重大项目等事项的统一跟踪督办；掌控单位内部的工作分配与执行情况，事项提醒标识，全面提升企业执行力；任务详情、进展有据可查，过程透明公开。">
+                                    依托协同工作平台，实现领导交办、批件、重大项目等事项的统一...</p>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="solutionsPlatform.html#1152" class="prevent animated">
+                            <div style="float: left" class="menu_icon2 icon25"></div>
+                            <div class="word">
+                                <div class="tit">财务报销</div>
+                                <p title="提供企业网上报销服务,为企业打造统一的网上报销平台.助力企业实现业务流程标准化,财务标准统一化。">
+                                    提供企业网上报销服务,为企业打造统一的网上报销平台.助力企业...</p>
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+                <ul class="articlehtml" style="display:none;">
+                    <li>
+                        <a href="solutionsMiddleware.html#1201" class="prevent animated">
+                            <div style="float: left" class="menu_icon icon9"></div>
+                            <div class="word">
+                                <div class="tit">中间件平台IXS</div>
+                                <p title="以面向服务架构(SOA)思想，融合阿里巴巴的dubbo开源分布式服务框，从业务需求为出发，最大限度地重用已经存在的软件资产，减少耦合度，进行企业应用集成">
+                                    以面向服务架构(SOA)思想，融合阿里巴巴的dubbo开源分布式服务框...</p>
+                            </div>
+                        </a>
+                    </li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!-- 产品与解决方案 -->
+
+    <!-- 我们的客户 -->
+    <div class="customer2">
+        <div class="newtit type2">
+            <span>数百家一流园区最佳实践</span>
+            <em>Launch专注智慧园区信息化领域多年，拥有专业的管理咨询与研发团队，通过融合一流园区先进管理理念与信息化实践经验，帮<br/>
+                助园区客户快速构建现代化智慧运营体系。</em>
+        </div>
+        <div class="bd">
+            <ul>
+                <li>
+                    <span id="num-1">20</span>
+                    <em>覆盖省市</em>
+                </li>
+                <li>
+                    <span id="num-2">100</span>
+                    <em>成功项目</em>
+                </li>
+                <li>
+                    <span id="num-3">50</span>
+                    <em>核心应用</em>
+                </li>
+                <li>
+                    <span id="num-4">30</span>
+                    <em>大型项目</em>
+                </li>
+            </ul>
+        </div>
+        <div class="hd">
+            <ul>
+                <li class="pro_list2"><img src="images/item1.png" onerror="no_pic(this)"></li>
+                <li class="pro_list2"><img src="images/item2.png" onerror="no_pic(this)"></li>
+                <li class="pro_list2"><img src="images/item3.png" onerror="no_pic(this)"></li>
+                <li class="pro_list2"><img src="images/item4.png" onerror="no_pic(this)"></li>
+                <li class="pro_list2"><img src="images/item5.png" onerror="no_pic(this)"></li>
+                <li class="pro_list2"><img src="images/item6.png" onerror="no_pic(this)"></li>
+                <li class="pro_list2"><img src="images/item7.png" onerror="no_pic(this)"></li>
+                <li class="pro_list2"><img src="images/item8.png" onerror="no_pic(this)"></li>
+            </ul>
+        </div>
+    </div>
+    <!-- 我们的客户 -->
+
+
+    <!-- 底部 -->
+
+
+    <div class="footer pcshow">
+        <div class="bd">
+            <div class="container">
+                <!--<img class="logo2" style="margin-top: 8px;" src="images/logo.png" width="100"/>-->
+                <div class="footer_logo">LAUNCH</div>
+                <div class="word">
+                    <p>
+                        &nbsp<img src="images/top/tel.png"> ：027-50669194
+                    </p>
+                    <p>
+                        &nbsp<img src="images/top/email.png"> ：contact@launchso.com
+                    </p>
+                    <p>
+                        <img src="images/top/address.png">：武汉市东湖新技术开发区光谷大道金融港博彦科技A9栋405
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 侧边栏 -->
+    <div class="sidebar pcshow">
+        <ul>
+            <li class="type1"><i class="iconfont icon-share"></i>
+                <div style="left: -215px; top: -36px; width: 200px;">
+                    服务热线: 027-50669194<br/>
+                    服务Q群：462532010<br/>
+                    服务时间：8:30-18:00
+                    <br/>
+                </div>
+            </li>
+            <li class="type2"><a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=3457637565&site=qq&menu=yes"><i
+                    class="iconfont icon-zhaoshangguanli1"></i></a>
+                <div style="top: -60px; width: 95px; height: 153px">
+                    <a style="width: 95px; height: 153px" target="_blank"
+                       href="http://wpa.qq.com/msgrd?v=3&uin=3457637565&site=qq&menu=yes">
+                        <img style="width: 95px; height: 153px" border="0" src="http://wpa.qq.com/pa?p=2:3457637565:53"
+                             alt="点击这里给我发消息" title="点击这里给我发消息"/>
+                    </a>
+                </div>
+            </li>
+
+            <li class="type1 topball" style="display: none" onclick="toTop()" title="回到顶部"><i
+                    class="iconfont icon-huidaodingbu1"></i></li>
+
+        </ul>
+    </div>
+    <!-- 侧边栏 -->
+</form>
+
+
+</body>
+
+</html>
+
+    <script type="text/javascript" src="js/jquery-1.11.3.min.js"></script>
+    <script type="text/javascript" src="js/iconfont.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/public.js"></script>
+    <script type="text/javascript" src="js/js.js"></script>
+    <script type="text/javascript" src="js/swiper.min.js"></script>
+    <script>
+
+        function toTop() {
+            var speed = 500;//滑动的速度
+            $('body,html').animate({scrollTop: 0}, speed);
+            return false;
+        }
+
+        $(function () {
+            $(window).on('scroll', function () {
+                $('.top').css('opacity',1-$(window).scrollTop()/500);
+                if ($(window).scrollTop() < $(window).height()) {
+                    $('.topball').fadeOut(300)
+                    $('.float_btm').show()
+
+                } else {
+                    $('.topball').fadeIn(300)
+                    $('.float_btm').hide()
+                }
+            });
+
+            if ($(window).width() > 1100) {
+                $(".sidebar").show();
+            } else {
+                $(".sidebar").hide();
+            }
+
+
+            $(".nav li").hover(function () {
+                $(this).find('.nav_list').stop().slideDown(200)
+            }, function () {
+                $(this).find('.nav_list').stop().slideUp(200)
+            })
+
+            $(".sidebar li").eq(0).hover(function () {
+                $(this).children("div").show().stop().animate({
+                    "left": -205
+                }, 100);
+            }, function () {
+                $(this).children("div").stop().animate({
+                    "left": -215
+                }, 100).fadeOut(100);
+            })
+            $(".sidebar li").eq(1).hover(function () {
+                $(this).children("div").show().stop().animate({
+                    "left": -100
+                }, 100);
+            }, function () {
+                $(this).children("div").stop().animate({
+                    "left": -110
+                }, 100).fadeOut(100);
+            })
+
+        })
+
+        $(function () {
+            var myswiper = new Swiper('.swiper-container', {
+                direction: 'horizontal',
+                autoplayDisableOnInteraction: false,
+                loop: true,
+                autoplay: 2000,
+                // 如果需要分页器
+                pagination: '.swiper-pagination',
+                paginationClickable: true
+                // 如果需要前进后退按钮
+                /*nextButton: '.swiper-button-next',
+                 prevButton: '.swiper-button-prev',*/
+
+
+            });
+            // banner
+            var mySwiper = new Swiper('.swiper-container.type1', {
+                resizeReInit: true,
+                autoplay: 5000,
+                speed: 1000,
+                loop: true,
+                pagination: '.swiper-container.type1 .pagination',
+                paginationClickable: true,
+                calculateHeight: true,
+            })
+            loadhtml();
+
+            $(window).resize(function (event) {
+                loadhtml();
+            });
+            //产品与解决方案
+            $(".product2 .hd li").click(function () {
+                $(this).siblings("li").removeClass("on");
+                $(this).addClass("on");
+                $(".articlehtml").hide().eq($(this).index()).fadeIn();
+                loadhtml();
+            })
+
+            setTimeout(function () {
+                $(".product2 .hd li em").each(function () {
+                    if ($(this).text() != "（0）") {
+                        $(this).parents("li").click();
+                        $(this).parents("li").siblings("li").removeClass("on");
+                        $(this).parents("li").addClass("on");
+                        return false;
+                    }
+                })
+            }, 1);
+
+        })
+
+        function loadhtml() {
+            // 产品
+
+            var mySwiper2 = new Swiper('.swiper-container.type2', {
+                resizeReInit: true,
+                calculateHeight: true,
+                pagination: '.swiper-container.type2 .pagination',
+                paginationClickable: true,
+                slidesPerView: 1,
+                speed: 1000
+            })
+
+
+            // 新闻
+            //if ($(window).width() > 1100) {
+            var mySwiper = new Swiper('.swiper-container.type3', {
+                resizeReInit: true,
+                calculateHeight: true,
+                speed: 500,
+                slidesPerView: 3,
+                autoplay: false,
+                loop: true
+            })
+            $('.arrow-left').on('click', function (e) {
+                e.preventDefault()
+                mySwiper.swipePrev()
+            })
+            $('.arrow-right').on('click', function (e) {
+                e.preventDefault()
+                mySwiper.swipeNext()
+            })
+
+            // 动画
+            $(".product2 .bd li").hover(function () {
+                $(this).find('a').addClass('animated zoomIn on');
+            }, function () {
+                $(this).find('a').removeClass('zoomIn on');
+            });
+        }
+
+        // 动画
+        $(".product2 .bd li").hover(function () {
+            $(this).find('a').addClass('animated zoomIn on');
+        }, function () {
+            $(this).find('a').removeClass('zoomIn on');
+        });
+        // 数字滚动
+        var options = {
+            useEasing: true,
+            useGrouping: true,
+            separator: ',',
+            decimal: '.',
+            prefix: '',
+            suffix: '+'
+        };
+        var demo = new CountUp("num-1", 0, 20, 0, 2.5, options);
+        var demo2 = new CountUp("num-2", 0, 100, 0, 2.5, options);
+        var demo3 = new CountUp("num-3", 0, 50, 0, 2.5, options);
+        var demo4 = new CountUp("num-4", 0, 30, 0, 2.5, options);
+        //        var demo5 = new CountUp("num-5", 0, 30, 0, 2.5, options);
+        //        var demo6 = new CountUp("num-6", 0, 50, 0, 2.5, options);
+        $(window).scroll(function () {
+            if ($(window).scrollTop()-$('.customer2').offset().top>-300) {
+                demo.start();
+                demo2.start();
+                demo3.start();
+                demo4.start();
+//                demo5.start();
+//                demo6.start();
+            }
+        })
+    </script>
+
+
+
+<script>
+    /*baidu_hm 百度网桥*/
+     /*   var _hmt = _hmt || [];
+            (function() {
+                var hm = document.createElement("script");
+                hm.src = "https://hm.baidu.com/hm.js?a96d86ce722ed1d8651cbb585daea0d1";
+                var s = document.getElementsByTagName("script")[0];
+                s.parentNode.insertBefore(hm, s);
+            })();*/
+</script>

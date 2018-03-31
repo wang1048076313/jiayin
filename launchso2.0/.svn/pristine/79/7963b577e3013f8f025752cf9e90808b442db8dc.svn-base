@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_ctl00_Head1">
+    <meta charset="UTF-8"/>
+    <meta name="keywords" content="武汉朗数科技有限公司,智慧园区,园区信息化,互联网,软件开发"/>
+    <meta name="description" content="武汉朗数科技有限公司公司"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+
+    <link rel="bookmark" type="image/x-icon" href="favicon.ico"/>
+    <link rel="icon" href="favicon.ico">
+    <link rel="shortcut icon" href="favicon.ico">
+
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+
+    <script type="text/javascript" src="js/jquery-1.11.3.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+
+    <script>
+        var SiteUrl = "http://www.launchso.com/";
+    </script>
+
+    <script src="js/public.js"></script>
+    <title>
+        产品与解决方案
+    </title></head>
+<body>
+<form name="aspnetForm" method="post" action="" id="aspnetForm">
+
+    <!-- 头部导航 -->
+    <Div class="" data-cmsareaid="65">
+        <link rel="stylesheet" href="http://at.alicdn.com/t/font_av3luykaoto3whfr.css">
+    </Div>
+
+
+    <div class="header">
+        <div class="container">
+            <a class="logo" href="index.html">
+                <img width="140" src="images/logo.png"/></a>
+
+            <ul class="mainav">
+
+                <li>
+                    <a href="index.html">首页</a></li>
+
+                <li>
+                    <a href="javascript:;" val="227" class="active">
+                        <font onclick="location.href='ERP.html'">
+                            产品
+                        </font>
+
+                    </a>
+                </li>
+                <li>
+                    <a href="javascript:;" val="227" class="">
+                        <font onclick="location.href='server.html'">
+                            服务
+                        </font>
+
+                    </a>
+                </li>
+                <li>
+                    <a href="javascript:;" val="228" class="">
+                        <font onclick="location.href='typicalCases.html'">
+                            典型案例
+
+                        </font>
+
+                    </a>
+
+
+                </li>
+
+                <li>
+                    <a href="javascript:;" val="229" class="">
+                        <font onclick="location.href='partner.html'">
+                            合作伙伴
+
+                        </font>
+
+                    </a>
+
+
+                </li>
+
+                <li>
+                    <a href="javascript:;" val="230" >
+                        <font onclick="location.href='aboutUs.html'">
+                            关于我们
+
+                        </font>
+
+                    </a>
+
+
+                </li>
+
+            </ul>
+        </div>
+    </div>
+
+    <!-- 头部导航 -->
+
+    <!-- 引导页 -->
+
+
+    <!-- 引导页 -->
+
+
+    <!-- banner -->
+    <div style="background-image: url(images/top/solutions_bg.jpg);"
+         class="titimg">
+        <div class="titimg-word">
+            <span>产品与解决方案</span>
+            <em>Products and Solutions</em>
+        </div>
+    </div>
+    <!-- banner -->
+
+    <div class="tab_bar_top">
+        <div class="tab_bar_item">
+            <a href="SHOP.html#1100">
+                产品介绍
+            </a>
+        </div>
+        <div class="tab_bar_item">
+            <a href="SHOP.html#1101">
+                产品特点
+            </a>
+        </div>
+        <div class="tab_bar_item">
+            <a href="SHOP.html#1102">
+                功能清单
+            </a>
+        </div>
+    </div>
+
+
+
+
+    <!-- 产品解决方案 -->
+    <div class="maincont type2 articlehtml_item">
+        <div>
+            <div class="container">
+                <div class="row">
+                    <div class="maincont-tit" id="tit_1100">
+                        <a href="#1100" id="1100"></a>
+                        产品介绍
+                    </div>
+                    <ul>
+                        <li>
+                            <p><span class="fontsize_16">打通企业内部ERP与互联网电子商务平台、实现网上采购、网上销售、网上支付的模块整合；</span></p>
+                        </li>
+                        <li>
+                            <p><span class="fontsize_16">突出个性化设计，注重舒适的用户体验，集成主流物流公司接口，面单打印方案；</span></p>
+                        </li>
+                        <li>
+                            <p><span class="fontsize_16">线下商务的机会与互联网结合在了一起，让互联网成为线下交易的前台，实现线上线下信息的互通和资源的共享与线上与线下的立体互动；</span></p>
+                        </li>
+                        <li>
+                            <p><span class="fontsize_16">自营+招商、自营+联营+招商等模式，平台企业通过建立自营线上商城，整合自身多渠道业务，通过会员、商品、订单、财务和仓储等管理系统，对线下线上多渠道业务进行统一管理；</span></p>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div><div>
+        <div class="container">
+            <div class="row">
+                <div class="maincont-tit" id="tit_1101">
+                    <a href="#1101" id="1101"></a>
+                    产品特点
+                </div>
+                <ul class="about_list"  style="padding: 0">
+                    <li class="about_item">灵活的价格体系：
+                        <p style="margin-left:30px;padding: 10px 0">整合周边系统流程，进行业务再造，满足企业流程个性化需求。通过工作流引擎和组织结构库，将原有的SAP审批流外迁，并整合其他系统的服务，最终形成统一服务，供用户使用。</p>
+                    </li>
+                    <li class="about_item">完善的支付体系：
+                        <p style="margin-left:30px;padding: 10px 0">动态定义价格类型，可以针对某一特定顾客群体，多级分销渠道，不同区域的地区，不同类型的客户分类，可实施单独定价的策略；同时，具有良好的安全价格自动监控机制，保护价格的正常销售。</p>
+                    </li>
+                    <li class="about_item">灵活的物流配置：
+                        <p style="margin-left:30px;padding: 10px 0">支持按配送地区管理，能够动态配置各种配送方式。运费的配置支持按商品总价、商品重量、商品体积、和统一规定运费。可支持运单号追踪功能。</p>
+                    </li>
+                    <li class="about_item">高效的订单处理流程：
+                        <p style="margin-left:30px;padding: 10px 0">支持工作流程的订单处理机制，结合ERP产品支持经销、代销两种供应商订单管理。支持售后处理（退货、换货、拒收）等处理流程。</p>
+                    </li>
+                    <li class="about_item">丰富的客户端：
+                        <p style="margin-left:30px;padding: 10px 0">目前商城支持APP版，微信版，实现多种客户端的快速部署应用。</p>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+        <div>
+            <div class="container">
+                <div class="row">
+                    <div class="maincont-tit" id="tit_1102">
+                        <a href="#1102" id="1102"></a>
+                        功能清单
+                    </div>
+                    <p>
+                        <img style="width: 80%;margin: auto" src="images/top/functionlist2.png" />
+                    </p>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- 产品解决方案 end -->
+
+    <!-- 底部 -->
+
+
+
+    <div class="footer pcshow">
+        <div class="bd">
+            <div class="container">
+                <div class="footer_logo">LAUNCH</div>
+                <div class="word">
+                    <p>
+                        &nbsp<img src="images/top/tel.png"> ：027-50669194
+                    </p>
+                    <p>
+                        &nbsp<img src="images/top/email.png"> ：contact@launchso.com
+                    </p>
+                    <p>
+                        <img src="images/top/address.png">：武汉市东湖新技术开发区光谷大道金融港博彦科技A9栋405
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- 侧边栏 -->
+
+
+    <script>
+        function toTop() {
+            var speed = 500;//滑动的速度
+            $('body,html').animate({scrollTop: 0}, speed);
+            return false;
+        }
+        $(function () {
+            $(window).on('scroll',function () {
+                if($(window).scrollTop()<$(window).height()){
+                    $('.topball').hide()
+                }else{
+                    $('.topball').show()
+                }
+            });
+
+            if ($(window).width() > 1100) {
+                $(".sidebar").show();
+            } else {
+                $(".sidebar").hide();
+            }
+
+        })
+
+    </script>
+
+
+    <!-- 侧边栏 -->
+    <div class="sidebar pcshow">
+        <ul>
+            <li class="type1 topball"  style="display: none" onclick="toTop()" title="回到顶部"><i
+                    class="iconfont icon-huidaodingbu1"></i></li>
+
+        </ul>
+    </div>
+    <!-- 侧边栏 -->
+
+    <script>
+        $(".sidebar li").eq(1).hover(function () {
+            $(this).children("div").show().stop().animate({
+                "left": -205
+            }, 100);
+        }, function () {
+            $(this).children("div").stop().animate({
+                "left": -215
+            }, 100).fadeOut(100);
+        })
+    </script>
+
+</form>
+</body>
+</html>

@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_ctl00_Head1">
+    <meta charset="UTF-8" />
+    <meta name="keywords" content="武汉朗数科技有限公司,Launchso,公司介绍,技术体系,公司证书" />
+    <meta name="description" content="关于我们" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <link rel="bookmark" type="image/x-icon" href="favicon.ico" />
+    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <script>
+        var SiteUrl = "http://www.launchso.com/";
+    </script>
+    <title>
+        关于我们
+    </title>
+</head>
+<body>
+<form name="aspnetForm" method="post" action="" id="aspnetForm">
+    <Div class="" data-cmsareaid="65">
+        <link rel="stylesheet" href="http://at.alicdn.com/t/font_av3luykaoto3whfr.css">
+    </Div>
+
+
+    <div class="header">
+        <div class="container">
+            <a class="logo" href="index.html">
+                <img width="140" src="images/logo.png" /></a>
+
+            <ul class="mainav">
+
+                <li>
+                    <a href="index.html">首页</a></li>
+
+                <li>
+                    <a href="javascript:;" val="227" class="">
+                        <font onclick="location.href='ERP.html'">
+                            产品
+                        </font>
+
+                    </a>
+                </li>
+
+                <li>
+                    <a href="javascript:;" val="227" class="">
+                        <font onclick="location.href='server.html'">
+                            服务
+                        </font>
+
+                    </a>
+                </li>
+
+                <li>
+                    <a href="javascript:;" val="228" class="">
+                        <font onclick="location.href='typicalCases.html'">
+                            典型案例
+
+                        </font>
+
+                    </a>
+
+
+                </li>
+
+                <li>
+                    <a href="javascript:;" val="229" class="">
+                        <font onclick="location.href='partner.html'">
+                            合作伙伴
+
+                        </font>
+
+                    </a>
+
+
+                </li>
+
+                <li>
+                    <a href="javascript:;" val="230" class="active">
+                        <font onclick="location.href='aboutUs.html'">
+                            关于我们
+
+                        </font>
+
+                    </a>
+
+
+                </li>
+
+            </ul>
+        </div>
+    </div>
+
+    <!-- banner -->
+    <div class="titimg" style="background-image: url(images/top/aboutUs_bg.jpg);">
+        <div class="titimg-word">
+            <span>关于我们</span>
+            <em>About us</em>
+        </div>
+    </div>
+    <!-- banner -->
+
+    <div class="maincont">
+        <div>
+            <div class="container">
+                <div class="row">
+                    <div class="maincont-tit">
+                        <span id="ctl00_ctl00_main_main_title"><a id="5178"></a>公司介绍</span>
+                    </div>
+                    <p style="text-align: left"><span style="font-weight:bold;margin-left: 30px;">武汉朗数科技有限公司 Launchso</span> 成立于2013年，注册地为东湖高新技术开发区，是一家专注于企业级应用软件开发、企业级软件产品研发、互联网项目开发、软件技术咨询服务、信息系统集成的技术型软件企业。公司旨在“技术创造价值”，坚持走技术路线，发扬“工匠精神”，在IT技术应用方面追求精益求精。公司的主要客户为华新水泥、锦江集团、国丞基金、成安财富、中天城投、长飞集团等大中型企业，同时也是上海普元、SAP、Alibaba的技术合作伙伴。</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 技术体系 -->
+    <div class="container">
+        <div class="row">
+            <div class="maincont-tit">
+                <span id="ctl00_ctl00_main_main_abouttitle"><a id="5176"></a>技术体系</span>
+            </div>
+            <ul class="about_list">
+                <li class="about_item">主要技术路线：J2EE。</li>
+                <li class="about_item">开发语言：以Java为主，另外在C++、C#、Python、Go、js、SAP ABAP方面，也具有丰富开发经验。</li>
+                <li class="about_item">移动应用：具备专业的iOS、Android、HTML5、微信等技术的开发能力。</li>
+                <li class="about_item">数据库：具备专业的Oracle、SQL Server、DB2、Sybase等数据库建设、管理、设计、开发、维护能力。</li>
+                <li class="about_item">应用系统：朗数科技在诸多大型信息化系统实施的过程中，积累了SAP/R3、SAP Hybris、SAP BI/BO、 SAP HANA、金蝶、用友等大型企业应用系统的设计开发经验。</li>
+                <li class="about_item">应用服务器：朗数科技在众多的行业客户项目中采用BEA WebLogic Server、IBM WebSphere Application Server、Oracle9i Application Server、Tomcat、Nginx等国际流行的应用服务器，积累了深厚的应用服务器管理、部署、开发、维护经验。</li>
+                <li class="about_item">中间件方面：熟悉众多基于JAVA的开源组件，包括：Dubbo、RocketMQ、Aliyun MQ、Tair等，其中 朗数科技与Alibaba Dubbo开发团队开展了深度合作，朗数科技创建了4个2000人的Alibaba Dubbo技 术交流群，其中2个已成为了Dubbo的官方群，群中汇集了众多公司的技术精英，从而形成了朗数重要的外部技术力量之一。</li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- 公司证书 -->
+    <div class="container">
+        <div class="row">
+            <div class="maincont-tit">
+                <span id="ctl01_ctl00_main_main_abouttitle"><a id="5180"></a>公司证书</span>
+            </div>
+            <div class="about_list">
+                <div class="innerImg">
+                <img src="images/top/about_card1.jpg" >
+                <img src="images/top/about_card2.jpg" >
+                <img src="images/top/about_card3.jpg" >
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer pcshow">
+        <div class="bd">
+            <div class="container">
+                <div class="footer_logo">LAUNCH</div>
+                <div class="word">
+                    <p>
+                        &nbsp<img src="images/top/tel.png"> ：027-50669194
+                    </p>
+                    <p>
+                        &nbsp<img src="images/top/email.png"> ：contact@launchso.com
+                    </p>
+                    <p>
+                        <img src="images/top/address.png">：武汉市东湖新技术开发区光谷大道金融港博彦科技A9栋405
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 侧边栏 -->
+    <div class="sidebar pcshow">
+        <ul>
+            <li class="type1 topball" onclick="toTop()"  style="display: none" title="回到顶部"><i
+                    class="iconfont icon-huidaodingbu1"></i></li>
+
+        </ul>
+    </div>
+    <!-- 侧边栏 -->
+
+
+</form>
+</body>
+</html>
+<script type="text/javascript" src="js/jquery-1.11.3.min.js"></script>
+<script>
+    function toTop() {
+        var speed = 500;//滑动的速度
+        $('body,html').animate({ scrollTop: 0 }, speed);
+        return false;
+    }
+    $(function () {
+        $(window).on('scroll',function () {
+            if($(window).scrollTop()<$(window).height()){
+                $('.topball').hide()
+            }else{
+                $('.topball').show()
+            }
+        });
+
+        if ($(window).width() > 1100) {
+            $(".sidebar").show();
+        } else {
+            $(".sidebar").hide();
+        }
+
+    })
+
+</script>

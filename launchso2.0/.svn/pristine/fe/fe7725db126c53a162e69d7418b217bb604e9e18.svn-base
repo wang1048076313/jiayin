@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_ctl00_Head1">
+    <meta charset="UTF-8"/>
+    <meta name="keywords" content="武汉朗数科技有限公司,智慧园区,园区信息化,互联网,软件开发"/>
+    <meta name="description" content="武汉朗数科技有限公司公司"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+
+    <link rel="bookmark" type="image/x-icon" href="favicon.ico"/>
+    <link rel="icon" href="favicon.ico">
+    <link rel="shortcut icon" href="favicon.ico">
+
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/animate.min.css">
+    <link rel="stylesheet" type="text/css" href="css/iconfont.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+
+
+    <title>
+        解决方案
+    </title></head>
+<body>
+<form name="aspnetForm" method="post" action="" id="aspnetForm">
+
+    <!-- 头部导航 -->
+    <Div class="" data-cmsareaid="65">
+        <link rel="stylesheet" href="http://at.alicdn.com/t/font_av3luykaoto3whfr.css">
+    </Div>
+
+
+    <div class="top">
+        <div class="top_in"><a class="top_l" href="index.html"></a>
+            <div class="nav">
+                <ul>
+                    <li><a class="hover_bottom" href="index.html">首页</a></li>
+                    <li><a class="nav_main hover_bottom" href="ERP.html">产品</a>
+                        <div class="nav_list"><a href="ERP.html">EBP</a> <a
+                                href="IXS.html">IXS</a> <a href="SHOP.html">电商平台</a></div>
+                    </li>
+                    <li><a class="nav_main hover_bottom" href="server.html">服务</a>
+                        <div class="nav_list" style="width: 140px"><a href="server.html#ctl00_ctl00_main_main_title">软件咨询服务</a> <a
+                                href="server.html#ctl00_ctl00_main_main_xm">应用系统项目实施</a> <a href="server.html#ctl01_ctl00_main_main_abouttitle">软件产品定制开发</a></div>
+                    </li>
+                    <li><a class="nav_main hover_bottom" href="typicalCases.html">典型案例</a>
+                        <div class="nav_list" style="width: 140px">
+                            <a href="typicalCases.html#1001">电商解决方案</a>
+                            <a href="typicalCases.html#1002">P2P解决方案</a>
+                            <a href="typicalCases.html#1003">智慧社区方案</a>
+                            <a href="typicalCases.html#1004">报表解决方案</a>
+                            <a href="typicalCases.html#1005">供应商采购方案</a>
+                        </div>
+                    </li>
+                    <li><a class="hover_bottom" href="partner.html">合作伙伴</a></li>
+                    <li><a class="nav_main hover_bottom" href="aboutUs.html">关于我们</a>
+                        <div class="nav_list"><a href="aboutUs.html#5178">公司介绍</a> <a href="aboutUs.html#5176">技术体系</a> <a
+                                href="aboutUs.html#5180">公司证书</a></div>
+                    </li>
+                    <li class="phone01" style="width: auto">027-50669194</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <!-- 头部导航 -->
+
+    <!-- 引导页 -->
+
+
+    <!-- 引导页 -->
+
+
+    <!-- banner -->
+    <div style="background-image: url(images/top/solutions_bg.jpg);" class="titimg">
+        <div class="titimg-word">
+            <span>产品与解决方案</span>
+            <em>Products and Solutions</em>
+        </div>
+    </div>
+    <!-- banner -->
+
+
+    <!-- 产品与解决方案 -->
+
+    <div class="product2"  style="margin-top: 30px;">
+        <div class="hd">
+            <ul>
+                <li data-value="1566" >
+                    <a href="solutionsSystem.html" >
+                        <i class="iconfont icon-cp1"></i>
+                        <span>电商系统</span>
+                    </a>
+                </li>
+                <li data-value="1567">
+                    <a href="solutionsPlatform.html" >
+                        <i class="iconfont icon-cp2"></i>
+                        <span>企业开发平台</span>
+                    </a>
+                </li>
+                <li data-value="1568" class="on">
+                    <a href="solutionsMiddleware.html" >
+                        <i class="iconfont icon-cp3"></i>
+                        <span>中间件平台</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="bd">
+            <div>
+                <ul class="articlehtml">
+                    <li>
+                        <a href="#1201" class="animated">
+                            <div style="float: left"  class="menu_icon icon9"></div>
+                            <div class="word">
+                                <div class="tit">中间件平台IXS</div>
+                                <p title="以面向服务架构(SOA)思想，融合阿里巴巴的dubbo开源分布式服务框，从业务需求为出发，最大限度地重用已经存在的软件资产，减少耦合度，进行企业应用集成">以面向服务架构(SOA)思想，融合阿里巴巴的dubbo开源分布式服务框...</p>
+                            </div>
+                        </a>
+                    </li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- 产品解决方案 -->
+    <div class="maincont articlehtml_item">
+        <div>
+            <div class="container">
+                <div class="row">
+                    <div class="maincont-tit" id="tit_1201">
+                        <a href="#1201" id="1201"></a>
+                        01.中间件平台
+                    </div>
+                    <p style="text-align:center">以面向服务架构(SOA)思想，融合阿里巴巴的dubbo开源分布式服务框，从业务需求为出发，最大限度地重 用已经存在的软件资产，减少耦合度，进行企业应用集成。</p>
+
+                    <p><img style="width: 40%;margin: auto" src="images/top/solution_bg17.png" /></p>
+                </div>
+            </div>
+        </div>
+        <div>
+        <div class="container">
+            <div class="row">
+                <div class="maincont-tit" id="tit_1202">
+                    <a href="#1202" id="1202"></a>
+                    SOA架构思想
+                </div>
+                <ul class="solutionslist_list">
+                    <li class="solutionslist_item">对服务(service)进行标准化封装，具体业务功能的实现是多个一系列相关服务的组装；服务像是“元件”，如何将多个“元件”组装成产品，这个过程称为SOA治理。</li>
+                    <li class="solutionslist_item">软件的复用性，一个软件或应用程序稍做修改就可多次复用，单独部署、升级、改造不影响整体；</li>
+                    <li class="solutionslist_item">耦合关系，实现业务逻辑与网络连接和数据交换的分离，不再是“铁板一块”,“牵一发而动全身”</li>
+                </ul>
+                <p><img style="width: 40%;margin: auto" src="images/top/solution_bg18.png" /></p>
+
+            </div>
+        </div>
+    </div><div>
+        <div class="container">
+            <div class="row">
+                <div class="maincont-tit" id="tit_1203">
+                    <a href="#1203" id="1203"></a>
+                    Dubbo框架
+                </div>
+                <ul class="solutionslist_list">
+                    <li class="solutionslist_item">Alibaba开源的分布式服务框架，最大的特点分层的方式来架构，使各层之间最大限度地松耦合；</li>
+                    <li class="solutionslist_item">从服务提供方和服务消费方角度，构建整个服务生态系统</li>
+                </ul>
+
+                <p><img style="width: 40%;margin: auto" src="images/top/solution_bg19.png" /></p>
+
+            </div>
+        </div>
+    </div><div>
+        <div class="container">
+            <div class="row">
+                <div class="maincont-tit" id="tit_1204">
+                    <a href="#1204" id="1204"></a>
+                    产品定位
+                </div>
+                <ul class="solutionslist_list">
+                    <li class="solutionslist_item">分布式服务总线是将成熟的互联网架构技术推向传统企业，降低企业App、微信、内外应用间的开发成本，优化企业架构，降低企业IT信息系统运维成本。</li>
+                    <li class="solutionslist_item">分布式服务总线=开放平台+远程调用(RPC)+消息中间件(MQ)+定时作业(Schedule)</li>
+                </ul>
+
+                <p><img style="width: 40%;margin: auto" src="images/top/solution_bg19.png" /></p>
+
+            </div>
+        </div>
+    </div><div>
+        <div class="container">
+            <div class="row">
+                <div class="maincont-tit" id="tit_1205">
+                    <a href="#1205" id="1205"></a>
+                    产品系统架构
+                </div>
+                <ul class="solutionslist_list">
+                    <li class="solutionslist_item">业务组件：用户可根据具体的业务需求，进行业务建模，快速地组装业务应用；</li>
+                    <li class="solutionslist_item">服务管理：按照业务模型和业务需求，对一系列服务接口进行编排，控制和管理；</li>
+                    <li class="solutionslist_item">企业服务总线：对接入的子应用系统或应用程序进行协议转换、调用者身份授权、制定相应异常处理机制，对服务进行监控；</li>
+                    <li class="solutionslist_item">用户应用系统：按照业务需要对数据进行共享、实现系统之间的相互调用；</li>
+                </ul>
+
+                <p><img style="width: 60%;margin: auto" src="images/top/solution_bg20.png" /></p>
+
+            </div>
+        </div>
+    </div><div>
+        <div class="container">
+            <div class="row">
+                <div class="maincont-tit" id="tit_1206">
+                    <a href="#1206" id="1206"></a>
+                    产品功能组成
+                </div>
+                <ul class="solutionslist_list">
+                    <li class="solutionslist_item">服务配置中心：对各子应用系统需要对外暴露的接口服务进行配置，按照具体的业务场景进行服务的组装，合理地编排；</li>
+                    <li class="solutionslist_item">服务运行中心：为服务的调用过程提供保障，对调用者的权限进行校验，对数据交换过程中进行协议转换，协议代理，对过程中异常行为进行排错处理；</li>
+                    <li class="solutionslist_item">服务监控中心：对服务调用的状况进行分析，对服务调用的过程中进行监控；</li>
+                </ul>
+
+                <p><img style="width: 60%;margin: auto" src="images/top/solution_bg21.png" /></p>
+
+            </div>
+        </div>
+    </div>
+
+    </div>
+    <!-- 产品解决方案 end -->
+
+    <!-- 底部 -->
+
+
+
+    <div class="footer pcshow">
+        <div class="bd">
+            <div class="container">
+                <div class="footer_logo"><img src="images/LOGO_white.png" style="height:60px"></div>
+                <div class="word">
+                    <p>
+                        &nbsp<img src="images/top/tel.png"> ：027-50669194
+                    </p>
+                    <p>
+                        &nbsp<img src="images/top/email.png"> ：contact@launchso.com
+                    </p>
+                    <p>
+                        <img src="images/top/address.png">：武汉市东湖新技术开发区光谷大道金融港博彦科技A9栋405
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- 侧边栏 -->
+    <div class="sidebar pcshow">
+        <ul>
+            <li class="type1 topball" onclick="toTop()" title="回到顶部"><i
+                    class="iconfont icon-huidaodingbu1"></i></li>
+
+        </ul>
+    </div>
+    <!-- 侧边栏 -->
+
+</form>
+</body>
+</html>
+<script type="text/javascript" src="js/jquery-1.11.3.min.js"></script>
+<script type="text/javascript" src="js/com.js"></script>
